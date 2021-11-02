@@ -1,0 +1,30 @@
+{
+  "name": "webdev-sql",
+  "version": "1.0.0",
+  "description": "webdev using SQL database",
+  "main": "server.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nailaamani/webdev-sql.git"
+  },
+  "author": "Naila Amani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nailaamani/webdev-sql/issues"
+  },
+  "homepage": "https://github.com/Nailaamani/webdev-sql#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.2",
+    "sequelize": "^6.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
