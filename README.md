@@ -18,6 +18,7 @@ The technology used in this project includes:
 
 > ### Project Setup
 * Download this repo, run command prompt/terminal in the folder, run ' npm install '
+* Open XAMPP Control Panel and start Apache and MySQL
 
 > ### Project Run
 * ' npm start ' in command prompt/terminal  to run the program
